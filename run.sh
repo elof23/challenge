@@ -1,0 +1,1 @@
+FLASK_APP=one.py flask run

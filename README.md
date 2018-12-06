@@ -1,6 +1,6 @@
 ## Usage:
 
-*nix: sh run.sh; curl localhost:5000/trends/mysearchterm/mylimit
+*nix: pipenv shell; sh run.sh; curl localhost:5000/trends/mysearchterm/mylimit
 
 ## notes:
 
